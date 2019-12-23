@@ -1,0 +1,7 @@
+pane	local	1	:~/projects	0	:-	1	:/home/pep/projects	1	fish	:/usr/bin/fish
+pane	local	2	:~/.tmux/plugins	0	:	1	:/home/pep/.tmux/plugins	1	fish	:/usr/bin/fish
+pane	local	3	:fish	1	:*	1	:/home/pep/projects	1	fish	:/usr/bin/fish
+window	local	1	0	:-	b51e,266x70,0,0,1
+window	local	2	0	:	b51f,266x70,0,0,2
+window	local	3	1	:*	b520,266x70,0,0,3
+state	local	

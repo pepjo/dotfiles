@@ -1,0 +1,15 @@
+pane	local	1	:fish	0	:	1	:/home/pep/projects	1	fish	:/usr/bin/fish
+pane	local	2	:fish	0	:	1	:/home/pep/projects/app	0	kubectl	:/usr/bin/fish
+pane	local	2	:fish	0	:	2	:/home/pep/projects	1	fish	:/usr/bin/fish
+pane	local	3	:piu	0	:#-	1	:/home/pep/projects/csp_server	0	bash	:/usr/bin/fish
+pane	local	3	:piu	0	:#-	2	:/home/pep/projects	1	candump	:/usr/bin/fish
+pane	local	4	:fish	0	:	1	:/home/pep/projects	1	fish	:/usr/bin/fish
+pane	local	5	:fish	0	:	1	:/home/pep/projects	1	fish	:/usr/bin/fish
+pane	local	6	:kubectl	1	:*	1	:/home/pep/projects	1	kubectl	:/usr/bin/fish
+window	local	1	0	:	c51d,205x84,0,0,0
+window	local	2	0	:	38fc,205x84,0,0[205x42,0,0,1,205x41,0,43,2]
+window	local	3	0	:#-	b901,205x84,0,0[205x42,0,0,3,205x41,0,43,5]
+window	local	4	0	:	c521,205x84,0,0,4
+window	local	5	0	:	c523,205x84,0,0,6
+window	local	6	1	:*	c524,205x84,0,0,7
+state	local	

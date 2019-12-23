@@ -1,0 +1,19 @@
+grouped_session	local-1	local	:1	:2
+pane	local	1	:go-common	0	:#-	1	:/home/pep/projects	1	fish	:/usr/bin/fish
+pane	local	2	:command-service	1	:*	1	:/home/pep/projects	1	fish	:/usr/bin/fish
+pane	local	3	:terminal-session	0	:	1	:/home/pep/projects	1	fish	:/usr/bin/fish
+pane	local	4	:infrastructure	0	:	1	:/home/pep/projects	1	fish	:/usr/bin/fish
+pane	local	5	:fish	0	:#	1	:/home/pep/projects/csp_server	0	bash	:/usr/bin/fish
+pane	local	5	:fish	0	:#	2	:/home/pep/projects	1	fish	:/usr/bin/fish
+pane	local	6	:fish	0	:	1	:/home/pep/projects	1	fish	:/usr/bin/fish
+pane	local	7	:kubectl	0	:#	1	:/home/pep/projects	1	kubectl	:/usr/bin/fish
+pane	local	8	:fish	0	:#	1	:/home/pep/projects	1	fish	:/usr/bin/fish
+window	local	1	0	:#-	b3c4,205x169,0,0,7
+window	local	2	1	:*	b3be,205x169,0,0,1
+window	local	3	0	:	da0f,205x169,0,0,20
+window	local	4	0	:	bda0,206x82,0,0,3
+window	local	5	0	:#	269d,205x169,0,0[205x84,0,0,28,205x84,0,85,29]
+window	local	6	0	:	5a10,205x169,0,0,30
+window	local	7	0	:#	5a11,205x169,0,0,31
+window	local	8	0	:#	5a12,205x169,0,0,32
+state	local-1	

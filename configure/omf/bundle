@@ -1,0 +1,9 @@
+package config
+package foreign-env
+package nvm
+package tmux-zen
+theme agnoster
+theme bobthefish
+theme default
+theme pure
+theme spacefish

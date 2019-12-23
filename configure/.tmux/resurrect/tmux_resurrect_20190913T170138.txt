@@ -1,0 +1,3 @@
+pane	local	1	:fish	1	:*	1	:/home/pep/projects	1	fish	:/usr/bin/fish
+window	local	1	1	:*	b51d,266x70,0,0,0
+state	local	
