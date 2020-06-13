@@ -7,6 +7,9 @@ makepkg -si
 
 cd ..
 
+# Update database
+pacman -Sy
+
 # Install fish
 sudo pacman -S fish
 
