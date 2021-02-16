@@ -20,10 +20,13 @@ sudo pacman -S tmux
 sudo pacman -S alacritty
 
 # Install vs code
-sudo pacman -S code
+sudo pacman -S visual-studio-code-bin
 
-# Install chromium
-sudo pacman -S chromium
+# Install chrome
+sudo pacman -S google-chrome
+
+# Install emojis
+sudo pacman -S ttf-joypixels
 
 # Install touchpad gestures
 sudo gpasswd -a $USER input
