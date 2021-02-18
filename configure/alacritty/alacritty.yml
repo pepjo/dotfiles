@@ -90,7 +90,6 @@ window:
   # Scroll to the bottom when new text is written to the terminal.
   #auto_scroll: false
 
-
 # Font configuration
 font:
   # Normal (roman) font face
@@ -214,19 +213,19 @@ colors:
    yellow:  '0xe5c07b'
    blue:    '0x61afef'
    magenta: '0xc678dd'
-   cyan:    '0x61afef'
+   cyan:    '0xa8f0d1'
    white:   '0xdcdfe4'
 
-  # Bright colors
+  # bright colors
   bright:
-   black:   '0x191919'
-   red:     '0xe06c75'
-   green:   '0x98c379'
-   yellow:  '0xe5c07b'
-   blue:    '0x61afef'
-   magenta: '0xc678dd'
-   cyan:    '0x61afef'
-   white:   '0xdcdfe4'
+   black:   '0x0d0d0d'
+   red:     '0xe0434e'
+   green:   '0x88c261'
+   yellow:  '0xe6b55c'
+   blue:    '0x48a1f0'
+   magenta: '0xbc4ede'
+   cyan:    '0x60f0b6'
+   white:   '0xeceff2'
 
   # Dim colors
   #
