@@ -1,7 +1,7 @@
 #!/bin/fish
 
 # Install oh my fish
-curl -L https://get.oh-my.fish | fish
+curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install | fish
 
 # OMF plugins and theme
 omf i config
