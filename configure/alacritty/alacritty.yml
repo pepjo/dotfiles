@@ -93,14 +93,14 @@ window:
 # Font configuration
 font:
   # Normal (roman) font face
-  #normal:
+  normal:
     # Font family
     #
     # Default:
     #   - (macOS) Menlo
     #   - (Linux) monospace
     #   - (Windows) Consolas
-    #family: monospace
+    family: Source Code Pro
 
     # The `style` can be specified to pick a specific face.
     #style: Regular
@@ -218,7 +218,7 @@ colors:
 
   # bright colors
   bright:
-   black:   '0x0d0d0d'
+   black:   '0x7d7d7d'
    red:     '0xe0434e'
    green:   '0x88c261'
    yellow:  '0xe6b55c'
@@ -281,7 +281,7 @@ colors:
 #
 # Window opacity as a floating point number from `0.0` to `1.0`.
 # The value `0.0` is completely transparent and `1.0` is opaque.
-background_opacity: 0.8
+background_opacity: 0.5
 
 #selection:
   #semantic_escape_chars: ",│`|:\"' ()[]{}<>\t"
