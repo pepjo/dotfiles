@@ -8,7 +8,6 @@ omf i config
 omf i fish-spec
 omf i foreign-env
 omf i nvm
-omf i omf
 omf i bobthefish
 omf i tmux-zen
 
