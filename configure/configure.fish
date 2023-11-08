@@ -30,3 +30,10 @@ cp -R ./.kde4 ~/
 
 # Configure touch gestures
 cp -R ./libinput-gestures.conf ~/.config/
+
+# Install kube functions
+mkdir -p ~/.config/fish/functions/
+cd ~/.config/fish/
+git clone https://github.com/aluxian/fish-kube-prompt
+ln -s ../fish-kube-prompt/functions/__kube_prompt.fish functions/
+ln -s ../fish-kube-prompt/functions/kube_ps.fish functions/
